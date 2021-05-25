@@ -12,3 +12,5 @@ Curso básico de python para finanças para Fucape
     2.1.1 Uma janela do navegador se abrirá com o jupyter
 
 3 Procurar pasta onde o arquivo se encontra e abrir.
+
+Contato Telegram: @WillianCorrea
